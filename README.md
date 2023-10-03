@@ -115,6 +115,7 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 
 # 6.PROFIT FOR THE POPULATION 35,000:
 ![6](https://github.com/SYEDADILBASHA1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/134796157/9a158990-6a69-4c61-b2cc-18f42ea7d86d)
+
 ![7](https://github.com/SYEDADILBASHA1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/134796157/fbb225ea-6587-449f-9fbe-34668c848db3)
 # 7. PROFIT FOR THE POPULATION 70,000:
 ![8](https://github.com/SYEDADILBASHA1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/134796157/d7de78f5-c9cf-45cc-8797-337ead42a0d1)
